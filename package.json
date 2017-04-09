@@ -1,0 +1,15 @@
+{
+  "name": "Airplake-privilege-demo",
+  "version": "1.0.0",
+  "description": "Airplake-privilege demo",
+  "main": "index.js",
+  "author": "wei",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "airplake-privilege": "^1.0.1",
+    "express": "^4.15.2"
+  }
+}
